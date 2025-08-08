@@ -1,0 +1,7 @@
+fastapi[standard]
+pdfplumber
+google-generativeai 
+python-multipart
+fuzzywuzzy
+python-dotenv
+scikit-learn
