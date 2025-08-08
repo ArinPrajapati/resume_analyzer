@@ -11,6 +11,7 @@ build/
 venv/
 ENV/
 env/
+sample_data/
 
 # VS Code (optional)
 .vscode/
@@ -24,6 +25,8 @@ env/
 # OS files
 .DS_Store
 Thumbs.db
+
+
 
 # dotenv
 .env
