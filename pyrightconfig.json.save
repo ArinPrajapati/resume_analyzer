@@ -1,6 +1,0 @@
-q{
-    "exclude": [
-        ".venv",
-        "venv"
-    ]
-}
