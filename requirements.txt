@@ -1,6 +1,6 @@
 fastapi[standard]
 pdfplumber
-google-generativeai 
+google-genai
 python-multipart
 fuzzywuzzy
 python-dotenv
