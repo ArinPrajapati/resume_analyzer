@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+.venv
+venv/
+ENV/
+env/
+
+# VS Code (optional)
+.vscode/
+
+# Neovim swap/backup
+*.swp
+*.swo
+*.swn
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# dotenv
+.env
+
